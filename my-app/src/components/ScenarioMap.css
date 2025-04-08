@@ -1,0 +1,13 @@
+.leaflet-container{
+    width: 70%;
+    height: 60vh;
+    margin: auto;
+  }
+
+  @media (max-width: 800px) {
+    .leaflet-container{
+      width: 90%;
+      height: 60vh;
+      margin: auto;
+    }
+  }
