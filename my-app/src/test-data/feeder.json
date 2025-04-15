@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "scenario_id": -1,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 1",
+      "middle_school_name": "Middle School 1",
+      "high_school_name": "High School 1",
+      "elementary_split": 0,
+      "middle_split": 1
+    },
+    {
+      "scenario_id": -1,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 2",
+      "middle_school_name": "Middle School 1",
+      "high_school_name": "High School 1",
+      "elementary_split": 1,
+      "middle_split": 1
+    },
+    {
+      "scenario_id": -1,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 3",
+      "middle_school_name": "Middle School 1",
+      "high_school_name": "High School 2",
+      "elementary_split": 0,
+      "middle_split": 1
+    },
+    {
+      "scenario_id": -1,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 2",
+      "middle_school_name": "Middle School 2",
+      "high_school_name": "High School 1",
+      "elementary_split": 1,
+      "middle_split": 0
+    },
+    {
+      "scenario_id": -1,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 4",
+      "middle_school_name": "Middle School 3",
+      "high_school_name": "High School 2",
+      "elementary_split": 0,
+      "middle_split": 0
+    },
+    {
+      "scenario_id": -1,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 2",
+      "middle_school_name": "Middle School 4",
+      "high_school_name": "High School 1",
+      "elementary_split": 1,
+      "middle_split": 0
+    },
+    {
+      "scenario_id": 0,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 1",
+      "middle_school_name": "Middle School 1",
+      "high_school_name": "High School 2",
+      "elementary_split": 0,
+      "middle_split": 0
+    },
+    {
+      "scenario_id": 0,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 2",
+      "middle_school_name": "Middle School 1",
+      "high_school_name": "High School 2",
+      "elementary_split": 1,
+      "middle_split": 0
+    },
+    {
+      "scenario_id": 0,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 3",
+      "middle_school_name": "Middle School 1",
+      "high_school_name": "High School 2",
+      "elementary_split": 0,
+      "middle_split": 0
+    },
+    {
+      "scenario_id": 0,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 2",
+      "middle_school_name": "Middle School 2",
+      "high_school_name": "High School 1",
+      "elementary_split": 1,
+      "middle_split": 0
+    },
+    {
+      "scenario_id": 0,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 4",
+      "middle_school_name": "Middle School 3",
+      "high_school_name": "High School 2",
+      "elementary_split": 0,
+      "middle_split": 0
+    },
+    {
+      "scenario_id": 0,
+      "elem_to_middle_students": 50,
+      "middle_to_high_students": 100,
+      "high_students": 200,
+      "elem_school_name": "Elementary School 2",
+      "middle_school_name": "Middle School 4",
+      "high_school_name": "High School 1",
+      "elementary_split": 1,
+      "middle_split": 0
+    }
+  ]
+}

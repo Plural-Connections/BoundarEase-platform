@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "school": "High School 1",
+      "scenario": -1,
+      "low_ses": 0.1,
+      "mid_ses": 0.2,
+      "high_ses": 0.7,
+      "distance": 0.233,
+      "num_students": 100
+    },
+    {
+      "school": "High School 1",
+      "scenario": 0,
+      "low_ses": 0.2,
+      "mid_ses": 0.3,
+      "high_ses": 0.5,
+      "distance": 0.133,
+      "num_students": 100
+    },
+    {
+      "school": "High School 2",
+      "scenario": -1,
+      "low_ses": 0.5,
+      "mid_ses": 0.2,
+      "high_ses": 0.3,
+      "distance": 0.167,
+      "num_students": 100
+    },
+    {
+      "school": "High School 2",
+      "scenario": 0,
+      "low_ses": 0.4,
+      "mid_ses": 0.3,
+      "high_ses": 0.3,
+      "distance": 0.067,
+      "num_students": 100
+    },
+    {
+      "school": "High School 3",
+      "scenario": -1,
+      "low_ses": 0.05,
+      "mid_ses": 0.1,
+      "high_ses": 0.85,
+      "distance": 0.283,
+      "num_students": 100
+    },
+    {
+      "school": "High School 3",
+      "scenario": 0,
+      "low_ses": 0.1,
+      "mid_ses": 0.2,
+      "high_ses": 0.7,
+      "distance": 0.233,
+      "num_students": 100
+    }
+  ]
+}
