@@ -20,7 +20,12 @@ A quick explanation of main folders:
 - `my-app/` - the frontend (react) files. `App.js` is the main file that stitches everything together.  Most of the remaining files correspond to React components
 - `V9cscw040_supmat.pdf` - a PDF of the supplementary materials 
 
-NOTE: we did not include the database scripts or data to keep the identity of the school district anonymous. Please reach out to coverney@mit.edu if you would like access to an anonymized version of the data.  
+NOTE: we did not include the database scripts or data to keep the identity of the school district anonymous. If you want examples of our data structure you can reference the below files. Adapting the test data with your actual data in a database and connecting it to the scripts within the `backend` folder should be sufficient. 
+- `my-app/src/map-data/array_of_GeoJSON.json`: contains test data for the map feature
+- `my-app/src/test-data/diversity.json`: contains test data for the diversity pillar
+- `my-app/src/test-data/feeder.json`: contains test data for the feeder pattern pillar
+- `my-app/src/test-data/sankey.json`: contains test data for the school utilization pillar
+
  
 ## Developing locally
 
